@@ -6,4 +6,4 @@
 •	    sum += n
 •	  return sum
 •	
-•	print(new_sum(2, 2, 2, 2, 2)
+•	print(new_sum(1, 1, 1, 1, 1)
